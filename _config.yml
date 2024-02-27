@@ -14,18 +14,17 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Siting Xu
   title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  address: Guangdong, Shenzhen
+  email: sitingxu_01#foxmail.com
+  link: https://sai-01.github.io/resumecard/
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
-#  stackoverflow: 4582127
+  github: sai-01
+  linkedin: //
+  twitter: //
+  gavatar: /resumecard/assets/img/66579090.jpg
+  stackoverflow: //
   workHistory:
     - work1:
       company: XXX Ltd
@@ -40,13 +39,6 @@ author:
       title: Java Developer
       started: 2012
       duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
